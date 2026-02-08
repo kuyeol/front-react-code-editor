@@ -1,0 +1,5 @@
+{
+  "name": "Docker Cloud Editor",
+  "description": "A high-performance cloud-based IDE for Docker container development, featuring a full-featured code editor, real-time terminal, and live preview window.",
+  "requestFramePermissions": []
+}
